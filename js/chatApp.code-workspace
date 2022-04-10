@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\my html project udemy"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "c:\\Users\\DELL\\Desktop\\c++ programming"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "html workspace"
+	}
+}
