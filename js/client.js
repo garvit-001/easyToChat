@@ -4,7 +4,7 @@ const form = document.getElementById('send-container');
 
 const messageInput = document.getElementById('messageInp');
 const messageContainer = document.querySelector(".container");
-const name = prompt("What is your name ? buddy");
+const name = alert("What is your name ? buddy");
 socket.emit('new-user-joined', name);
 
 var audio = new Audio('whatsapp.mp3');
